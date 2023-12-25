@@ -13,6 +13,11 @@
 var myVar = "Hello, world!";
 ```
 
+~ For TaskList
+- [x] Feature 1 completed
+- [ ] Feature 2 remains
+- [ ] Deploying the project
+      
 ~ For Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
