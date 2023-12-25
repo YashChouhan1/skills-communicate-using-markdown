@@ -4,10 +4,7 @@
 #### I am residing in Indore
 ##### I am from nepanagar
 ###### I studied from convent
-
-
-
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 New Markdown File Created
